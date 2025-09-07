@@ -2,6 +2,11 @@ Medicare Post-Acute Care Data Analysis
 
 This project explores Medicare post-acute (home health) data using SQL and Python. The analysis focuses on provider-level metrics such as episode counts, service days, care minutes by discipline (PT, OT, SLP, Nursing), provider charges, and Medicare payments.
 
+System Environment
+
+This project was developed on a Raspberry Pi 5 running Python, SQLite, and Jupyter Notebook.  
+While the analysis will run on any machine with Python 3 and the required libraries, I set it up on the Pi as part of my learning process in configuring lightweight data environments.
+
 Project Goals
 
 Practice SQL queries and python programming for healthcare datasets
